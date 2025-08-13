@@ -1,0 +1,488 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "sergekrutik",
+    "displayName": "Serge Krutik",
+    "profession": "Design System Lead",
+    "location": "Stockholm",
+    "pronouns": null,
+    "byline": "Design System Lead in Stockholm",
+    "website": null,
+    "websiteURL": null,
+    "about": "I'm a seasoned designer with over 14 years of experience, currently based in Stockholm. Years ago I started as a freelance designer, worked on branding, print, and web projects. Then worked across several digital agencies, but over time I dived more and more into product design and design systems.\n\nAlongside that, I'm building GETDONE, a GTD-based task planner app, we co-founded with my friend.\n\nI believe in honest and purposeful design. With that in mind, I aim to create useful, accessible, simple, and clean solutions, always searching for the balance between aesthetics and function.\n\nI'm always in learning, whether it's a new language, pushing up coding skills, or playing chess.\n\nAlso, I'm especially interested in atomic design, code as a design tool, design systems, privacy-conscious and ethical digital products, online privacy, and place for technology in our life.",
+    "status": {
+      "text": "Currently leading the design and implementation of design systems for storytel.com",
+      "emoji": "⚛️",
+      "timestamp": "2023-10-25T13:51:03.720Z"
+    },
+    "sectionOrder": [
+      "Contact",
+      "Projects",
+      "Side Projects",
+      "Work Experience",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "6ml3EKGL7vRzCbwYNuop",
+      "year": "Ongoing",
+      "heading": "Currently driving the development of the next-generation design system, incorporating significant redesigns across Storytel apps and website for a cohesive cross-platform experience.",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2280,
+          "height": 1678,
+          "url": "/content/media/Currently-driving-the-development-of-the-next-generation-design-system-incorporating-significant-redesigns-across-Storytel-apps-and-website-for-a-cohesive-cross-platform-experience-1.png"
+        },
+        {
+          "type": "video",
+          "width": 2280,
+          "height": 1678,
+          "url": "/content/media/Currently-driving-the-development-of-the-next-generation-design-system-incorporating-significant-redesigns-across-Storytel-apps-and-website-for-a-cohesive-cross-platform-experience-2.mp4"
+        }
+      ],
+      "type": "project",
+      "title": "Currently driving the development of the next-generation design system, incorporating significant redesigns across Storytel apps and website for a cohesive cross-platform experience.",
+      "company": null
+    },
+    {
+      "id": "QG5oV6625ZXKPTvBBVoS",
+      "year": "2021",
+      "heading": "Led the creation of the design system to streamline and enhance the user experience across Storytel apps.",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "project",
+      "title": "Led the creation of the design system to streamline and enhance the user experience across Storytel apps.",
+      "company": null
+    },
+    {
+      "id": "qzWIxDEqGMTIidLZ8GLB",
+      "year": "2021",
+      "heading": "Led the conceptualization and design of a unified Digital Identity for the Storytel app.",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "project",
+      "title": "Led the conceptualization and design of a unified Digital Identity for the Storytel app.",
+      "company": null
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "lk7sGSdT5038zQdlKJ5r",
+      "year": "Ongoing",
+      "heading": "Having fun designing and developing a web-based application at GETDONE",
+      "url": null,
+      "collaborators": [],
+      "description": "GETDONE is a dead-simple GTD-based task planner that we are building together with my friend. Available soon!",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 900,
+          "height": 1600,
+          "url": "/content/media/Having-fun-designing-and-developing-a-web-based-application-at-GETDONE-1.png"
+        },
+        {
+          "type": "image",
+          "width": 900,
+          "height": 1600,
+          "url": "/content/media/Having-fun-designing-and-developing-a-web-based-application-at-GETDONE-2.png"
+        },
+        {
+          "type": "image",
+          "width": 900,
+          "height": 1600,
+          "url": "/content/media/Having-fun-designing-and-developing-a-web-based-application-at-GETDONE-3.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Having fun designing and developing a web-based application",
+      "company": "GETDONE"
+    },
+    {
+      "id": "5146XEu5hG7JVJimk8Op",
+      "year": "2019",
+      "heading": "Cofounder + Product Designer at Electric Borneo Cat",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Cofounder + Product Designer",
+      "company": "Electric Borneo Cat"
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "T5gJhDpcOUeiyvpUsDWb",
+      "year": "2021 — Now",
+      "heading": "Design System Lead at Storytel",
+      "url": "https://www.storytel.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Design System Lead",
+      "company": "Storytel",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "id": "Q2lSYXR25GtCheF2tIjs",
+      "year": "2019 — 2021",
+      "heading": "Product Designer at Storytel",
+      "url": "https://www.storytel.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Storytel",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "id": "fSlqkcTjncUfk0MHcIBP",
+      "year": "2016 — 2019",
+      "heading": "Interaction Designer at Ericsson",
+      "url": "https://www.ericsson.com/en",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Interaction Designer",
+      "company": "Ericsson",
+      "location": "Karlskrona, Sweden"
+    },
+    {
+      "id": "vbgdqUG3cgEo3b5Km0yS",
+      "year": "2014 — 2016",
+      "heading": "UI/UX Designer at BMC",
+      "url": "http://bmc.com",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UI/UX Designer",
+      "company": "BMC",
+      "location": "Kyiv, Ukraine"
+    },
+    {
+      "id": "i1oGgZkizGeLRmjy4t6q",
+      "year": "2013 — 2014",
+      "heading": "Digital Designer at Escape",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Digital Designer",
+      "company": "Escape",
+      "location": "Kyiv, Ukraine"
+    },
+    {
+      "id": "ypmMZ8sen8zrcC4Rwd8m",
+      "year": "2013 — 2013",
+      "heading": "Digital Designer at Doris Advertising",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Digital Designer",
+      "company": "Doris Advertising",
+      "location": "Zhytomyr, Ukraine"
+    },
+    {
+      "id": "inuDVym9pueWKlIy3XSM",
+      "year": "2012 — 2013",
+      "heading": "Web Designer at Apolo",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web Designer",
+      "company": "Apolo",
+      "location": "Zhytomyr, Ukraine"
+    },
+    {
+      "id": "D6mwDUaD71lTeiTyLZJJ",
+      "year": "2010 — 2012",
+      "heading": "Digital Designer at Upwork",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Digital Designer",
+      "company": "Upwork",
+      "location": "Zhytomyr, Ukraine"
+    }
+  ],
+  "volunteering": [],
+  "education": [],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "iPpiIpSEPvQA9Hcqqa9f",
+      "platform": "Email",
+      "handle": "sergekrutik@pm.me",
+      "url": "mailto:sergekrutik@pm.me"
+    },
+    {
+      "id": "bDJopjhpu31lvFX7OY2s",
+      "platform": "LinkedIn",
+      "handle": "sergekrutik",
+      "url": "https://linkedin.com/in/sergekrutik"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "iPpiIpSEPvQA9Hcqqa9f",
+          "platform": "Email",
+          "handle": "sergekrutik@pm.me",
+          "url": "mailto:sergekrutik@pm.me"
+        },
+        {
+          "id": "bDJopjhpu31lvFX7OY2s",
+          "platform": "LinkedIn",
+          "handle": "sergekrutik",
+          "url": "https://linkedin.com/in/sergekrutik"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "6ml3EKGL7vRzCbwYNuop",
+          "year": "Ongoing",
+          "heading": "Currently driving the development of the next-generation design system, incorporating significant redesigns across Storytel apps and website for a cohesive cross-platform experience.",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2280,
+              "height": 1678,
+              "url": "/content/media/Currently-driving-the-development-of-the-next-generation-design-system-incorporating-significant-redesigns-across-Storytel-apps-and-website-for-a-cohesive-cross-platform-experience-1.png"
+            },
+            {
+              "type": "video",
+              "width": 2280,
+              "height": 1678,
+              "url": "/content/media/Currently-driving-the-development-of-the-next-generation-design-system-incorporating-significant-redesigns-across-Storytel-apps-and-website-for-a-cohesive-cross-platform-experience-2.mp4"
+            }
+          ],
+          "type": "project",
+          "title": "Currently driving the development of the next-generation design system, incorporating significant redesigns across Storytel apps and website for a cohesive cross-platform experience.",
+          "company": null
+        },
+        {
+          "id": "QG5oV6625ZXKPTvBBVoS",
+          "year": "2021",
+          "heading": "Led the creation of the design system to streamline and enhance the user experience across Storytel apps.",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "project",
+          "title": "Led the creation of the design system to streamline and enhance the user experience across Storytel apps.",
+          "company": null
+        },
+        {
+          "id": "qzWIxDEqGMTIidLZ8GLB",
+          "year": "2021",
+          "heading": "Led the conceptualization and design of a unified Digital Identity for the Storytel app.",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "project",
+          "title": "Led the conceptualization and design of a unified Digital Identity for the Storytel app.",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "lk7sGSdT5038zQdlKJ5r",
+          "year": "Ongoing",
+          "heading": "Having fun designing and developing a web-based application at GETDONE",
+          "url": null,
+          "collaborators": [],
+          "description": "GETDONE is a dead-simple GTD-based task planner that we are building together with my friend. Available soon!",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 900,
+              "height": 1600,
+              "url": "/content/media/Having-fun-designing-and-developing-a-web-based-application-at-GETDONE-1.png"
+            },
+            {
+              "type": "image",
+              "width": 900,
+              "height": 1600,
+              "url": "/content/media/Having-fun-designing-and-developing-a-web-based-application-at-GETDONE-2.png"
+            },
+            {
+              "type": "image",
+              "width": 900,
+              "height": 1600,
+              "url": "/content/media/Having-fun-designing-and-developing-a-web-based-application-at-GETDONE-3.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Having fun designing and developing a web-based application",
+          "company": "GETDONE"
+        },
+        {
+          "id": "5146XEu5hG7JVJimk8Op",
+          "year": "2019",
+          "heading": "Cofounder + Product Designer at Electric Borneo Cat",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Cofounder + Product Designer",
+          "company": "Electric Borneo Cat"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "T5gJhDpcOUeiyvpUsDWb",
+          "year": "2021 — Now",
+          "heading": "Design System Lead at Storytel",
+          "url": "https://www.storytel.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Design System Lead",
+          "company": "Storytel",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "id": "Q2lSYXR25GtCheF2tIjs",
+          "year": "2019 — 2021",
+          "heading": "Product Designer at Storytel",
+          "url": "https://www.storytel.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Storytel",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "id": "fSlqkcTjncUfk0MHcIBP",
+          "year": "2016 — 2019",
+          "heading": "Interaction Designer at Ericsson",
+          "url": "https://www.ericsson.com/en",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Interaction Designer",
+          "company": "Ericsson",
+          "location": "Karlskrona, Sweden"
+        },
+        {
+          "id": "vbgdqUG3cgEo3b5Km0yS",
+          "year": "2014 — 2016",
+          "heading": "UI/UX Designer at BMC",
+          "url": "http://bmc.com",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UI/UX Designer",
+          "company": "BMC",
+          "location": "Kyiv, Ukraine"
+        },
+        {
+          "id": "i1oGgZkizGeLRmjy4t6q",
+          "year": "2013 — 2014",
+          "heading": "Digital Designer at Escape",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Digital Designer",
+          "company": "Escape",
+          "location": "Kyiv, Ukraine"
+        },
+        {
+          "id": "ypmMZ8sen8zrcC4Rwd8m",
+          "year": "2013 — 2013",
+          "heading": "Digital Designer at Doris Advertising",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Digital Designer",
+          "company": "Doris Advertising",
+          "location": "Zhytomyr, Ukraine"
+        },
+        {
+          "id": "inuDVym9pueWKlIy3XSM",
+          "year": "2012 — 2013",
+          "heading": "Web Designer at Apolo",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web Designer",
+          "company": "Apolo",
+          "location": "Zhytomyr, Ukraine"
+        },
+        {
+          "id": "D6mwDUaD71lTeiTyLZJJ",
+          "year": "2010 — 2012",
+          "heading": "Digital Designer at Upwork",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Digital Designer",
+          "company": "Upwork",
+          "location": "Zhytomyr, Ukraine"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+---
+title: Storytel Apps Design System v1.0
+description: By Serge Krutik
+---
+> **Design System Lead ✴︎ In-house/Storytel**
+>
+> **Role:** research, tokens and core styles design, components design, quality assurance, documentation, strategic planning, accessibility expertise, cross-functional collaboration
+
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-1.png)
+
+In 2020, Storytel, a leading audiobook streaming service, was in the middle of a rapid growth phase. Continuous hiring of designers and developers, as well as the reconfiguration of product teams, made it increasingly difficult to keep a coherent and consistent output. This fragmentation and lack of uniformity were reflected in the product, undermining the user experience and brand perception.
+
+In less than two years, Storytel's apps have achieved significant progress in terms of a unified visual identity, brand consistency, and alignment with accessibility standards. The key driver of these achievements was the advanced design system that my team and I carefully designed and released.
+
+### **Starting point**
+
+Creating a design system for a mature product with an extensive design and tech legacy required an initial audit. We carefully inventoried the existing typography styles, colors, and components across our iOS and Android apps. The audit uncovered numerous inconsistencies, including a substantial number of redundant styles. For instance, we identified 260 colors and 48 font sizes, alongside disparities in interaction patterns. This inventory served as the foundation for defining the styles and components to be included in the design system.
+
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-2.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-3.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-4.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-5.jpg)
+
+### **Collaborative approach**
+
+The creation of the design system was based on contributions from many stakeholders who were not part of the core design team. To set up this process, we established a collaborative model that ensured close interaction between the core team and the contributors. A shared roadmap with clearly defined sprints and milestones helped us generate the necessary momentum in the project. While designing and building the design system, we consistently communicated our progress to the entire Product & Tech department through regular presentations, focusing on the value and benefits of the design system for the organization. This helped us gain support from the product teams and ensure successful implementation after the MVP release.
+
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-6.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-7.png)
+
+### **New Digital Identity**
+
+Using Storytel's brand visual identity as a foundation, we initiated the process of creating a digital identity for the Storytel app, resulting in a subtle yet noticeable evolution of the app's look and feel. We introduced an updated color palette, a new background color, refined typographic hierarchy, and added new visual elements, such as pictograms. Once the cornerstones of the digital identity were defined, we proceeded with the design and development of components. All components, assets, and templates were made available to the design team in Figma as they were built.
+
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-8.png)
+
+### **Key building blocks of the Storytel Apps Design System**
+
+The core elements of the Storytel DS are tokens and styles, the assets library, and the components library.
+
+**Theme libraries.** Contains color palettes for each supported app theme, typography styles include defined font families for each supported language, a typographic scale, and parameters for different types of text content.
+
+**Assets library.** The Figma library is connected with iOS and Android asset libraries. An automated process keeps them in sync and allows adding or updating assets rapidly.
+
+**Component library**. Contains UI components for iOS and Android, providing descriptions of states and variations for each. Components in Figma are designed to simulate the behavior of implemented components, which helps designers better understand the limitations of each implemented component.
+
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-9.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-10.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-11.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-12.png)
+
+### **Enhancing accessibility through the design system**
+
+Accessibility was a non-negotiable principle during the design system's creation. Color contrasts, font sizes, and styles were iteratively fine-tuned multiple times to create a truly inclusive experience for our users. I created guidelines and checklists for the design team to use in their daily work. Design and development of components were carried out according to high accessibility standards, which helped Storytel's apps take a significant leap in accessibility compliance with WCAG.
+
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-13.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-14.png)
+![](/content/writing/QG5oV6625ZXKPTvBBVoS-15.png)
+
+### **The outcome**
+
+Of course, the power of the impact of the design system directly depends on its adoption in the product, Storytel is already getting great outcomes:
+
+1. **Enhanced Speed and Quality:** Product teams can design and build faster with higher product quality.
+
+2. **Single Source of Truth:** The design system serves as a reliable foundation for designers and developers.
+
+3. **Improved User Experience:** The Storytel app now offers a better, more consistent, and enjoyable experience to the users.
+
+In summary, the Storytel Apps DS has transformed the product design and development process, resulting in a more efficient, consistent, and accessible user experience.
