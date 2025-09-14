@@ -380,7 +380,20 @@
       "items": [
         {
           "id": "T5gJhDpcOUeiyvpUsDWb",
-          "year": "2021 — Now",
+          "year": "2025 — Now",
+          "heading": "Design System Lead at Volvo Cars",
+          "url": "https://www.volvocars.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Design System Lead",
+          "company": "Volvo Cars",
+          "location": "Stockholm, Sweden"
+        },
+        {
+          "id": "T5gJhDpcOUeiyvpUsDWb",
+          "year": "2021 — 2025",
           "heading": "Design System Lead at Storytel",
           "url": "https://www.storytel.com",
           "collaborators": [],
