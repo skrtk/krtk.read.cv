@@ -1,0 +1,72 @@
+.slider {
+  position: relative;
+  z-index: 1;
+  margin-block-start: var(--flow-space, 1.5rem);
+  margin-block-end: var(--flow-space, 1.5rem);
+  left: 50%;
+  transform: translateX(-50%);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.scrollableArea {
+  position: absolute;
+  inset: 0;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.scrollableArea::-webkit-scrollbar {
+  display: none;
+}
+
+.images {
+  display: flex;
+  column-gap: 8px;
+  position: relative;
+  width: max-content;
+  padding-inline: max(
+      var(--padding-inline),
+      calc((100vw - (var(--content-width) - var(--padding-inline) * 2)) / 2)
+  );
+}
+
+.imageWrapper {
+  background-color: var(--wash2);
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.imageWrapper img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  user-select: none;
+}
+
+.imageWrapper::after {
+  position: absolute;
+  inset: 0;
+  content: "";
+  border: 1px solid var(--transparentBorder);
+  border-radius: inherit;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.imageWrapper:active {
+  cursor: -webkit-grabbing;
+}
+
+@media only screen and (max-width: 480px) {
+  .images {
+      padding-inline: 0;
+  }
+}
